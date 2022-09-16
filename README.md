@@ -2,7 +2,7 @@
 
 ### Python-developer
 
-### Yandex.Practicum graduate
+### Yandex.Practicum
 
 ### Stacks: Python / Django / Django REST Framework / DRF / PostgreSQL / SQLite / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Gunicorn /
 
