@@ -2,9 +2,7 @@
 
 ### Python-developer
 
-### Yandex.Practicum
-
-### Stacks: Python / Django / Django REST Framework / DRF / PostgreSQL / SQLite / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Gunicorn /
+### Stacks: Python / Flask / Django / Django REST Framework / DRF / SQLAlchemy / PostgreSQL / SQLite / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Gunicorn /
 
 ### Contacts:
 
